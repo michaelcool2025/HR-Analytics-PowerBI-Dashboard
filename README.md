@@ -4,23 +4,25 @@
 
 ## Project Overview
 
-In this project, I analyzed HR data to better understand employee distribution, payroll, salaries, hiring trends, and attendance.
+In this project, I analyzed an HR dataset of **15 employees** to better understand employee distribution, payroll, salaries, hiring trends, and attendance patterns.
+
+The dashboard provides insights into **total payroll of $192K and an average salary of $2.2K**, helping to better understand workforce structure and HR performance.
+
 The main goal was to transform raw HR data into clear insights using an interactive Power BI dashboard.
 
 ## Dashboard Insights
 
 The dashboard highlights several important HR metrics including:
 
-* Total Employees
-* Active Employees
-* Total Payroll
-* Average Salary
+* Total Employees (**15 employees**)
+* Total Payroll (**$192K**)
+* Average Salary (**$2.2K**)
 * Employee Distribution by Country
 * Gender Distribution
 * Hiring Trends by Year
 * Attendance Analysis
 
-These insights help give a quick overview of workforce structure and salary distribution.
+These insights help give a quick overview of workforce structure, salary distribution, and employee attendance patterns.
 
 ## Dashboard Preview
 
